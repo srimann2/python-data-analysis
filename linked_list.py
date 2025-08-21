@@ -1,7 +1,7 @@
 
 """Recursive singly-linked list utility functions and Node class."""
 
-__author__ = "730572401"
+__author__ = "Sriya Mannepalli"
 
 
 class Node:
